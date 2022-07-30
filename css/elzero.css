@@ -1219,7 +1219,7 @@ ul {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
     position: relative;
-    background-image: url(/images/stats.jpg);
+    background-image: url(./images/stats.jpg);
     background-size: cover;
     min-height: 300px;
 }
@@ -1296,7 +1296,7 @@ ul {
     min-height: 100vh;
 }
 .discount .image {
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(./images/discount-background1.jpg);
     position: relative;
     flex-basis: 50%;
     display: flex;
@@ -1559,10 +1559,10 @@ ul {
 }
 @keyframes change-background {
     0%, 100% {
-        background-image: url(/images/discount-background1.jpg);
+        background-image: url(./images/discount-background1.jpg);
     }
     50% {
-        background-image: url(/images/discount-background2.jpg);
+        background-image: url(./images/discount-background2.jpg);
     }
 }
 /* End Animation */
